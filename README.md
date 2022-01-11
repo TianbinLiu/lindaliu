@@ -49,8 +49,7 @@ Quiz Results:
     <td> </td>
     <td><a href=" "> </a></td>
     <td><a href=""></a></td>
-    <td><a href="https://docs.google.com/document/d/1UyB1WZ3CGDCXZdZSDCqsZMm35ae9i4nZNadUYw78bgc/edit?usp=sharing
-">1.1-1.2</a></td>
+    <td><a href="https://github.com/LindaLiu1202/lindaliu/wiki/College-Board-1.1-1.2">1.1-1.2</a></td>
   </tr>
 
 </table>
