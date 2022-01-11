@@ -33,9 +33,7 @@
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
-    <td><a href="https://docs.google.com/document/d/1R0dxVWLbC_3KAm4U6SBOrIJY0xR2uCO0qWbRW9mmHXY/edit?usp=sharing
-Quiz Results:
-">2.3-2.4</a></td>
+    <td><a href="https://github.com/LindaLiu1202/lindaliu/wiki/College-Board-2.3-2.4">2.3-2.4</a></td>
   </tr>
   <tr>
     <td>1</td>
