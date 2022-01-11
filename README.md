@@ -45,7 +45,7 @@
     <td>0</td>
     <td> </td>
     <td><a href=" "> </a></td>
-    <td><a href="https://github.com/LindaLiu1202/lindaliu/wiki/Tech-Talk-0.0">Tech Talk 0.0</a></td>
+    <td><a href="https://github.com/LindaLiu1202/lindaliu/wiki/Tech-Talk-0.0">0.0</a></td>
     <td><a href="https://github.com/LindaLiu1202/lindaliu/wiki/College-Board-1.1-1.2">1.1-1.2</a></td>
   </tr>
 
