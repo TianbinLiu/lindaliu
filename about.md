@@ -1,2 +1,2 @@
-About Page
+# About Page
 {{ site.description }}
