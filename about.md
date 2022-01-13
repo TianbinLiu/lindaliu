@@ -1,2 +1,2 @@
 About Page
-{{site.description}}
+{{ site.description }}
