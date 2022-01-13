@@ -1,1 +1,2 @@
-About me
+About Page
+{{site.description}}
