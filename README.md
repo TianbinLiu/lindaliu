@@ -19,7 +19,7 @@
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
-    <td><a href="https://github.com/LindaLiu1202/lindaliu/wiki/College-Board-3.16-3.17-3.18">3.16 3.17 3.18</a></td>
+    <td><a href="https://github.com/LindaLiu1202/lindaliu/wiki/College-Board-3.16-3.18">3.16-3.18</a></td>
   </tr>
    <tr>
     <td>5</td>
