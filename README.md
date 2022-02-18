@@ -37,21 +37,21 @@
   </tr>
     <tr>
     <td>7</td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/samayass/flask_portfolio/commit/573af3d77168548d026694daf39c9f45d8f43185">Multiple Backgrounds in Studyroom</a><br><a href="https://github.com/samayass/flask_portfolio/commit/275d4614a0e9601d459cc376225dcd0bc8c5e30f">Add images on the background buttons</a><br><a href="https://github.com/samayass/flask_portfolio/commit/e33577a65a00255d1ae4dc251fb0d845504e9396">Web Search</a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href="https://github.com/LindaLiu1202/lindaliu/wiki/College-Board-3.16-3.18">3.16-3.18</a></td>
   </tr>
     <tr>
     <td>6</td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/samayass/flask_portfolio/commit/562efc4db01130f600d6f56104d3162f9f6c2b16">Fix Light Mode and Lofi Music</a><br><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td>none<a href=" "> </a></td>
   </tr>
    <tr>
     <td>5</td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/samayass/flask_portfolio/commit/60d3f75a10d898b4747fb8f14a958bfc72617ef3">Palindrome Tester</a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href="https://github.com/LindaLiu1202/lindaliu/wiki/College-Board-3.14-3.15">3.14-3.15</a></td>
