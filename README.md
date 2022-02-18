@@ -7,40 +7,47 @@
     <th>Tech Talk</th>
     <th>College Board</th>
    </tr>
+    <tr>
+    <td>11</td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+    <td>none<a href=" "> </a></td>
+  </tr>
    <tr>
     <td>10</td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
-    <td><a href=" "> </a></td>
+    <td>5.1-5.6<a href="https://github.com/LindaLiu1202/lindaliu/wiki/College-Board-5.1-5.6">5.1-5.6</a><br>AP MCQ Practice Exam<a href="https://github.com/LindaLiu1202/lindaliu/wiki/AP-MCQ-Practice-Exam-Corrections">AP MCQ Practice Exam</a></td>
   </tr>
    <tr>
     <td>9</td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
-    <td><a href=" "> </a></td>
+    <td>4.1-4.3<a href="https://github.com/LindaLiu1202/lindaliu/wiki/College-Board-4.1-4.3">4.1-4.3</a></td>
   </tr>
    <tr>
     <td>8</td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
-    <td><a href=" "> </a></td>
+    <td>none<a href=" "> </a></td>
   </tr>
     <tr>
     <td>7</td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/LindaLiu1202/lindaliu/wiki/College-Board-3.16-3.18">3.16-3.18</a></td>
   </tr>
     <tr>
     <td>6</td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
-    <td><a href="https://github.com/LindaLiu1202/lindaliu/wiki/College-Board-3.16-3.18">3.16-3.18</a></td>
+    <td>none<a href=" "> </a></td>
   </tr>
    <tr>
     <td>5</td>
