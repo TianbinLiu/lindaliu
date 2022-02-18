@@ -7,6 +7,27 @@
     <th>Tech Talk</th>
     <th>College Board</th>
    </tr>
+   <tr>
+    <td>10</td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+  </tr>
+   <tr>
+    <td>9</td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+  </tr>
+   <tr>
+    <td>8</td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+    <td><a href=" "> </a></td>
+  </tr>
     <tr>
     <td>7</td>
     <td><a href=" "> </a></td>
