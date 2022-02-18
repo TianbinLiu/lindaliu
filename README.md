@@ -23,7 +23,7 @@
   </tr>
    <tr>
     <td>9</td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/samayass/flask_portfolio/commit/2a582baf0c5dea235c9d3fcc55a79a8712559ab8">Change the background and color of food in snake game</a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href="https://github.com/LindaLiu1202/lindaliu/wiki/College-Board-4.1-4.3">4.1-4.3</a></td>
@@ -37,7 +37,7 @@
   </tr>
     <tr>
     <td>7</td>
-    <td><a href="https://github.com/samayass/flask_portfolio/commit/573af3d77168548d026694daf39c9f45d8f43185">Multiple Backgrounds in Studyroom</a><br><a href="https://github.com/samayass/flask_portfolio/commit/275d4614a0e9601d459cc376225dcd0bc8c5e30f">Add images on the background buttons</a><br><a href="https://github.com/samayass/flask_portfolio/commit/e33577a65a00255d1ae4dc251fb0d845504e9396">Web Search</a></td>
+    <td><a href="https://github.com/samayass/flask_portfolio/commit/573af3d77168548d026694daf39c9f45d8f43185">Multiple Backgrounds in Studyroom</a><br><a href="https://github.com/samayass/flask_portfolio/commit/275d4614a0e9601d459cc376225dcd0bc8c5e30f">Add images on the background buttons</a><br><a href="https://github.com/samayass/flask_portfolio/commit/e33577a65a00255d1ae4dc251fb0d845504e9396">Web Search</a><br><a href="https://github.com/samayass/flask_portfolio/commit/cd66297171f50046b459097e30356996f4cd73f8">Implement Timer into Studyroom</a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td><a href="https://github.com/LindaLiu1202/lindaliu/wiki/College-Board-3.16-3.18">3.16-3.18</a></td>
