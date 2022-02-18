@@ -30,7 +30,7 @@
   </tr>
    <tr>
     <td>8</td>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/Archkitten/m22p4-ninjas/commit/9e51b1198f922169a43ff6ba8f31c4f67c8c71bc">Random Space Picture Generator</a><br><a href="https://github.com/Archkitten/m22p4-ninjas/commit/9a7b0c84573e5f3740eaef582ab7629036cc91fe">Add invert effect to Random Space Picture Generator</a><br><a href="https://github.com/Archkitten/m22p4-ninjas/commit/c07923e62afdcd45f83b776f0a54c63c5e5fe74f">Fix navbar position in Space Quiz</a><br><a href="https://github.com/Archkitten/m22p4-ninjas/commit/d998f868e78064c2a30d6e2d446e1e9d8e762e70">Show correct answers in Space Quiz</a><br><a href="https://github.com/Archkitten/m22p4-ninjas/commit/6061f1899ad03855cc3357bafba65f827577bf78">Space Gallery</a><br><a href="https://github.com/Archkitten/m22p4-ninjas/commit/9a7b0c84573e5f3740eaef582ab7629036cc91fe">Add grayscale, blur, invert effects to Space Gallery</a><br><a href="https://github.com/Archkitten/m22p4-ninjas/commit/747cc49703641b2783b63f3ee04ba61dcc9504c5">Click link to take you to the news site</a><br><a href="https://github.com/Archkitten/m22p4-ninjas/commit/275864fb1d56c2c8e733a8ca1478d4cfd2540514">Add backgrounds to Space Gallery and learn_planets.html</a><br><a href="https://github.com/Archkitten/m22p4-ninjas/commit/5f25a925dd4278b0c17865c1f53662e63c3b8462">Snake game</a></td>
     <td><a href=" "> </a></td>
     <td><a href=" "> </a></td>
     <td>none<a href=" "> </a></td>
