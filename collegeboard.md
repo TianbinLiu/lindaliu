@@ -6,7 +6,7 @@
 
   <tr>
    <td>0</td>
-   <td><a href="collegeboard/5.1">5.1</a><br><a href="/collegeboard/5.2">5.2</a></td>
+   <td><a href="5.1">5.1</a><br><a href="/collegeboard/5.2">5.2</a></td>
   </tr>  
   
   <tr>
