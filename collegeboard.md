@@ -11,5 +11,5 @@
   
   <tr>
    <td>1</td>
-   <td><a href="collegeboard/5.3">5.3</a>-<a href="/collegeboard/5.4">5.4</a></td>
+   <td><a href="collegeboard/5.3">5.3</a>-<a href="collegeboard/5.4">5.4</a></td>
   </tr> 
