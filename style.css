@@ -5,14 +5,15 @@ ul {
 }
 ul li {
     float: left;
-    width: 100px;
+    width: 150px;
     height: 25px;
     background-color: grey;
     opacity: .8;
-    line-height: 30px;
+    line-height: 35px;
     text-align: center;
     font-size: 15px;
     margin-right: 0px;
+    margin-button: 50px;
 }
 ul li a {
     text-decoration: none;
