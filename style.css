@@ -1,9 +1,3 @@
-body {
-    background: url(bgimage.jpeg) no-repeat;
-    background-size: cover;
-    font-family: Arial;
-    color: white;
-}
 ul {
     margin: 0px;
     padding: 0px;
@@ -13,20 +7,20 @@ ul li {
     float: left;
     width: 100px;
     height: 25px;
-    background-color: white;
+    background-color: grey;
     opacity: .8;
-    line-height: 40px;
+    line-height: 30px;
     text-align: center;
     font-size: 15px;
     margin-right: 0px;
 }
 ul li a {
     text-decoration: none;
-    color: black;
+    color: white;
     display: block;
 }
 ul li a:hover {
-    background-color: light blue;
+    background-color: blue;
 }
 ul li ul li {
     display: none;
