@@ -1,3 +1,4 @@
+{% include navigation.html %}
 # Tri 3 Time Box 
 
 <table>
