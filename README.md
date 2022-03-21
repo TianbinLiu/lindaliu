@@ -21,7 +21,7 @@
   
    <tr>
     <td>1</td>
-    <td><a href="https://github.com/LindaLiu1202/just_here_to_code/issues/5">Lists and Loops</a></td>
+    <td><a href="https://github.com/LindaLiu1202/lindaliu/issues/2">Lists and Loops</a></td>
    </tr>
    
    <tr>
