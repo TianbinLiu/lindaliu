@@ -1,3 +1,7 @@
+{% include navigation.html %}
+
+---
+
 # Linda Liu's Github Page
 
 ---
