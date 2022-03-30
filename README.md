@@ -24,7 +24,9 @@
   
    <tr>
     <td>2</td>
-      <td><a href="  ">  </a></td>
+      <td><a href="https://github.com/LindaLiu1202/lindaliu/issues/3">Classy Functions</a><br>
+       <a href="https://replit.com/@linltl135135/lindaliu1202#week2/factors.py">Factors</a>, <a href="https://replit.com/@linltl135135/lindaliu1202#week2/primes.py">Primes</a>, <a href="https://replit.com/@linltl135135/lindaliu1202#week2/fiboCall.py">Fibonacci Call</a><br>
+       <a href="https://lindaliu1202.github.io/lindaliu/collegeboard/5.5">5.5 Legal and Ethical Concerns </a>- <a href="https://lindaliu1202.github.io/lindaliu/collegeboard/5.6">5.6 Safe Computing</a> (Notes & Actions)</td>
    </tr>
   
    <tr>
