@@ -22,7 +22,8 @@ ul li a {
     display: block;
 }
 ul li a:hover {
-    color: blue;
+    color: white;
+    background: lightseagreen;
 }
 ul li ul li {
     display: none;
