@@ -8,23 +8,25 @@ ul li {
     width: 150px;
     height: 25px;
     background-color: lightblue;
-    opacity: .8;
+    opacity: 1;
     line-height: 35px;
     text-align: center;
     font-size: 15px;
     margin-right: 0px;
     margin-button: 50px;
+    z-index: 99; important!
 }
 ul li a {
     text-decoration: none;
     background-color: lightblue;
     color: mediumblue;
     display: block;
+     z-index: 99; important!
 }
 ul li a:hover {
     color: white;
     background: lightseagreen;
-    z-index: 9999; important!
+    z-index: 99; important!
 }
 ul li ul li {
     display: none;
