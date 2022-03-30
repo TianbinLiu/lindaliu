@@ -24,6 +24,7 @@ ul li a {
 ul li a:hover {
     color: white;
     background: lightseagreen;
+    z-index: 9999;
 }
 ul li ul li {
     display: none;
