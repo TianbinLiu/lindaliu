@@ -1,7 +1,8 @@
 ---
+
 # Career Technical Education Website
 ### AP CSP P4: Team Just-Here-To-Code
----
+
 ## [Team Repository](https://github.com/LindaLiu1202/just_here_to_code)
 ## [Team Github Pages](https://lindaliu1202.github.io/just_here_to_code/)
 ## [Scrum Board](https://github.com/LindaLiu1202/just_here_to_code/projects/1)
