@@ -1,5 +1,5 @@
 <table>
-  <tr>
+   <tr>
    <th>Week</th>
    <th>Notes & Actions</th>
    </tr>
@@ -14,7 +14,8 @@
    <td><a href="collegeboard/5.3">5.3</a>-<a href="collegeboard/5.4">5.4</a></td>
   </tr> 
   
-    <tr>
+  <tr>
    <td>2</td>
    <td><a href="collegeboard/5.5">5.5</a>-<a href="collegeboard/5.6">5.6</a></td>
   </tr> 
+ </table>
