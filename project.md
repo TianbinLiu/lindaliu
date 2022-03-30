@@ -19,8 +19,9 @@
 - Temporarily we will use a test server running on our local machines
 - We can use AWS to deploy on our own, but we hope to use district servers to host the website.
 
-### License - [[Link to License]](https://github.com/LindaLiu1202/just_here_to_code/blob/main/LICENSE)
+### License
 
+- [[Link to License]](https://github.com/LindaLiu1202/just_here_to_code/blob/main/LICENSE)
 - We are using an MIT license, because there is snot much reason for anyone to distribute the Poway CTE website. All we have to do is disclose the license and copyright information. 
 
 
