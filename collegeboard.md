@@ -1,7 +1,3 @@
-{% include navigation.html %}
-
-<br>
-
 <table>
   <tr>
    <th>Week</th>
